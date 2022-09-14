@@ -71,3 +71,5 @@ Submit the URL for the updated GitHub repository in Canvas
 One per group meaning one submission will be used to grade both people.
 
 This means sometimes you will only use one computer/laptop This is the end 
+
+Git is confusing as hell
