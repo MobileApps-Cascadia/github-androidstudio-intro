@@ -9,7 +9,7 @@
 
    * It has some advantages over a centralized system, which has a single copy of the code:
 
-     * It's quick to take action on your own copy
+     * It's quick to take action on your own copy WHICH IS GREAT!
      * It works locally, on your own computer, and offline
      * It makes having multiple branches, parallel worlds of code, easier
 
