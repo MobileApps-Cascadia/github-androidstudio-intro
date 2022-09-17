@@ -9,7 +9,7 @@
 
    * It has some advantages over a centralized system, which has a single copy of the code:
 
-     * It's quick to take action on your own copy
+     * It's quick to take action on your own copy WHICH IS GREAT!
      * It works locally, on your own computer, and offline
      * It makes having multiple branches, parallel worlds of code, easier
 
@@ -68,3 +68,8 @@
 
 ## Submission (one per group )
 Submit the URL for the updated GitHub repository in Canvas
+One per group meaning one submission will be used to grade both people.
+
+This means sometimes you will only use one computer/laptop This is the end 
+
+Git is confusing as hell
